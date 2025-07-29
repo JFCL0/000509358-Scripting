@@ -14,9 +14,9 @@ namespace ejercicio1
                 currentNum += formerNum; // Siguiente numero en la serie es igual a la suma de los 2 numeros anteriores a el
                 formerNum = currentNum - formerNum; // formerNum es igual a lo que solia ser el currentNum
 
-                if(PrimeCheck(currentNum) == true)
+                if(PrimeCheck(currentNum) == true) // Si el numero es primo...
                 {
-                    Console.WriteLine(currentNum);
+                    Console.WriteLine(currentNum); // ... mostrarlo en pantalla
                 }
             }
         }

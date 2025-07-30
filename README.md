@@ -1,2 +1,5 @@
-# Ejercicio Diagnostico
-Entrega del ejercicio diagnostico - Juan Nicolás Correa López
+# Repositorio de Scripting
+
+## Acceso rapido:
+
+  [Ejercicio diagnostico]

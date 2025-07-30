@@ -1,6 +1,6 @@
 // Enunciado: Escriba una función que imprima únicamente los números primos de la serie de Fibonacci hasta el n-ésimo término.
 
-namespace ejercicio1
+namespace Ejercicio_1
 {
     internal class Program
     {

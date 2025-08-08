@@ -12,7 +12,7 @@
 
   #### Ejercicio 1:
   [Ejercicio original](https://github.com/JFCL0/000509358-Scripting/blob/main/Ejercicios-Diagnosticos/Ejercicio-1/Ejercicio1_Original.cs)  
-  [Ejercicio corregido]()  
+  [Ejercicio corregido](https://github.com/JFCL0/000509358-Scripting/tree/main/Ejercicios-Diagnosticos/Ejercicio-1/Ejercicio%201%20-%20sln%20corregida)  
   [Notas Aclaratorias](https://github.com/JFCL0/000509358-Scripting/blob/main/Ejercicios-Diagnosticos/Ejercicio-1/Notas_Aclaratorias_1.md)  
 
   #### Ejercicio 2:

@@ -8,33 +8,24 @@
 
 ## Acceso rapido:
 
-<<<<<<< HEAD
 ### Ejercicios Diagnosticos:
 
   #### Ejercicio 1:
-  [Ejercicio original]()  
+  [Ejercicio original](https://github.com/JFCL0/000509358-Scripting/blob/main/Ejercicios-Diagnosticos/Ejercicio-1/Ejercicio1_Original.cs)  
   [Ejercicio corregido]()  
-  [Notas Aclaratorias]()  
+  [Notas Aclaratorias](https://github.com/JFCL0/000509358-Scripting/blob/main/Ejercicios-Diagnosticos/Ejercicio-1/Notas_Aclaratorias_1.md)  
 
   #### Ejercicio 2:
-  [Ejercicio original]()  
-  [Ejercicio corregido]()  
-  [Notas Aclaratorias]()  
+  [Ejercicio original](https://github.com/JFCL0/000509358-Scripting/blob/main/Ejercicios-Diagnosticos/Ejercicio-2/Ejercicio2_Original.cs)  
+  [Ejercicio corregido](https://github.com/JFCL0/000509358-Scripting/tree/main/Ejercicios-Diagnosticos/Ejercicio-2/Ejercicio%202%20-%20sln%20corregida)  
+  [Notas Aclaratorias](https://github.com/JFCL0/000509358-Scripting/blob/main/Ejercicios-Diagnosticos/Ejercicio-2/Notas_Aclaratorias_2.md)  
 
   #### Ejercicio 3:
-  [Ejercicio original]()  
-  [Ejercicio corregido]()  
-  [Notas Aclaratorias]()  
+  [Ejercicio original](https://github.com/JFCL0/000509358-Scripting/blob/main/Ejercicios-Diagnosticos/Ejercicio-3/Ejercicio3_Original.cs)  
+  [Ejercicio corregido](https://github.com/JFCL0/000509358-Scripting/tree/main/Ejercicios-Diagnosticos/Ejercicio-3/Ejercicio%203%20-%20sln%20corregida)  
+  [Notas Aclaratorias](https://github.com/JFCL0/000509358-Scripting/blob/main/Ejercicios-Diagnosticos/Ejercicio-3/Notas_Aclaratorias_3.md)  
 
   #### Ejercicio 4:
-  [Ejercicio original]()  
-  [Ejercicio corregido]()  
-  [Notas Aclaratorias]()  
-=======
-### Ejercicios diagnosticos
-
-####      [        Ejercicio 1](https://github.com/JFCL0/000509358-Scripting/blob/main/Ejercicios-Diagnosticos/Ejercicio1.cs)  
-####      [        Ejercicio 2](https://github.com/JFCL0/000509358-Scripting/blob/main/Ejercicios-Diagnosticos/Ejercicio2.cs)  
-####      [        Ejercicio 3](https://github.com/JFCL0/000509358-Scripting/blob/main/Ejercicios-Diagnosticos/Ejercicio3.cs)  
-####      [        Ejercicio 4](https://github.com/JFCL0/000509358-Scripting/blob/main/Ejercicios-Diagnosticos/Ejercicio4.cs)  
->>>>>>> 31e791aa117b892027afeba9bb1a08743496af3a
+  [Ejercicio original](https://github.com/JFCL0/000509358-Scripting/blob/main/Ejercicios-Diagnosticos/Ejercicio-4/Ejercicio4_Original.cs)  
+  [Ejercicio corregido](https://github.com/JFCL0/000509358-Scripting/tree/main/Ejercicios-Diagnosticos/Ejercicio-4/Ejercicio%204%20-%20sln%20corregida)  
+  [Notas Aclaratorias](https://github.com/JFCL0/000509358-Scripting/blob/main/Ejercicios-Diagnosticos/Ejercicio-4/Notas_Aclaratorias_4.md)  

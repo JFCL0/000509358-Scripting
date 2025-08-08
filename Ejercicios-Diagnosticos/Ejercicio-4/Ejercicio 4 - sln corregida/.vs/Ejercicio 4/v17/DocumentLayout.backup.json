@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\Studying\\5to semestre\\1 - Scripting\\GitHub\\000509358-Scripting\\Ejercicio 4 - sln corregida\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB9907D-2987-4C0A-AA1E-8E740DE85AD2}|Ejercicio 4\\Ejercicio 4.csproj|d:\\desktop\\studying\\5to semestre\\1 - scripting\\github\\000509358-scripting\\ejercicio 4 - sln corregida\\ejercicio 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB9907D-2987-4C0A-AA1E-8E740DE85AD2}|Ejercicio 4\\Ejercicio 4.csproj|solutionrelative:ejercicio 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB9907D-2987-4C0A-AA1E-8E740DE85AD2}|Ejercicio 4\\Ejercicio 4.csproj|d:\\desktop\\studying\\5to semestre\\1 - scripting\\github\\000509358-scripting\\ejercicio 4 - sln corregida\\ejercicio 4\\abstractsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB9907D-2987-4C0A-AA1E-8E740DE85AD2}|Ejercicio 4\\Ejercicio 4.csproj|solutionrelative:ejercicio 4\\abstractsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB9907D-2987-4C0A-AA1E-8E740DE85AD2}|Ejercicio 4\\Ejercicio 4.csproj|d:\\desktop\\studying\\5to semestre\\1 - scripting\\github\\000509358-scripting\\ejercicio 4 - sln corregida\\ejercicio 4\\messagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB9907D-2987-4C0A-AA1E-8E740DE85AD2}|Ejercicio 4\\Ejercicio 4.csproj|solutionrelative:ejercicio 4\\messagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB9907D-2987-4C0A-AA1E-8E740DE85AD2}|Ejercicio 4\\Ejercicio 4.csproj|d:\\desktop\\studying\\5to semestre\\1 - scripting\\github\\000509358-scripting\\ejercicio 4 - sln corregida\\ejercicio 4\\huhsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB9907D-2987-4C0A-AA1E-8E740DE85AD2}|Ejercicio 4\\Ejercicio 4.csproj|solutionrelative:ejercicio 4\\huhsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB9907D-2987-4C0A-AA1E-8E740DE85AD2}|Ejercicio 4\\Ejercicio 4.csproj|d:\\desktop\\studying\\5to semestre\\1 - scripting\\github\\000509358-scripting\\ejercicio 4 - sln corregida\\ejercicio 4\\godkillmesample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB9907D-2987-4C0A-AA1E-8E740DE85AD2}|Ejercicio 4\\Ejercicio 4.csproj|solutionrelative:ejercicio 4\\godkillmesample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageManager.cs",
+              "DocumentMoniker": "D:\\Desktop\\Studying\\5to semestre\\1 - Scripting\\GitHub\\000509358-Scripting\\Ejercicio 4 - sln corregida\\Ejercicio 4\\MessageManager.cs",
+              "RelativeDocumentMoniker": "Ejercicio 4\\MessageManager.cs",
+              "ToolTip": "D:\\Desktop\\Studying\\5to semestre\\1 - Scripting\\GitHub\\000509358-Scripting\\Ejercicio 4 - sln corregida\\Ejercicio 4\\MessageManager.cs",
+              "RelativeToolTip": "Ejercicio 4\\MessageManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T06:39:19.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HuhSample.cs",
+              "DocumentMoniker": "D:\\Desktop\\Studying\\5to semestre\\1 - Scripting\\GitHub\\000509358-Scripting\\Ejercicio 4 - sln corregida\\Ejercicio 4\\HuhSample.cs",
+              "RelativeDocumentMoniker": "Ejercicio 4\\HuhSample.cs",
+              "ToolTip": "D:\\Desktop\\Studying\\5to semestre\\1 - Scripting\\GitHub\\000509358-Scripting\\Ejercicio 4 - sln corregida\\Ejercicio 4\\HuhSample.cs",
+              "RelativeToolTip": "Ejercicio 4\\HuhSample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T06:30:07.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GodKillMeSample.cs",
+              "DocumentMoniker": "D:\\Desktop\\Studying\\5to semestre\\1 - Scripting\\GitHub\\000509358-Scripting\\Ejercicio 4 - sln corregida\\Ejercicio 4\\GodKillMeSample.cs",
+              "RelativeDocumentMoniker": "Ejercicio 4\\GodKillMeSample.cs",
+              "ToolTip": "D:\\Desktop\\Studying\\5to semestre\\1 - Scripting\\GitHub\\000509358-Scripting\\Ejercicio 4 - sln corregida\\Ejercicio 4\\GodKillMeSample.cs",
+              "RelativeToolTip": "Ejercicio 4\\GodKillMeSample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T06:29:54.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AbstractSample.cs",
+              "DocumentMoniker": "D:\\Desktop\\Studying\\5to semestre\\1 - Scripting\\GitHub\\000509358-Scripting\\Ejercicio 4 - sln corregida\\Ejercicio 4\\AbstractSample.cs",
+              "RelativeDocumentMoniker": "Ejercicio 4\\AbstractSample.cs",
+              "ToolTip": "D:\\Desktop\\Studying\\5to semestre\\1 - Scripting\\GitHub\\000509358-Scripting\\Ejercicio 4 - sln corregida\\Ejercicio 4\\AbstractSample.cs",
+              "RelativeToolTip": "Ejercicio 4\\AbstractSample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T06:00:30.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\Studying\\5to semestre\\1 - Scripting\\GitHub\\000509358-Scripting\\Ejercicio 4 - sln corregida\\Ejercicio 4\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio 4\\Program.cs",
+              "ToolTip": "D:\\Desktop\\Studying\\5to semestre\\1 - Scripting\\GitHub\\000509358-Scripting\\Ejercicio 4 - sln corregida\\Ejercicio 4\\Program.cs",
+              "RelativeToolTip": "Ejercicio 4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:59:37.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

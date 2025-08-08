@@ -1,0 +1,29 @@
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 3\Ejercicio 3\bin\Debug\net8.0\Ejercicio 3.exe
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 3\Ejercicio 3\bin\Debug\net8.0\Ejercicio 3.deps.json
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 3\Ejercicio 3\bin\Debug\net8.0\Ejercicio 3.runtimeconfig.json
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 3\Ejercicio 3\bin\Debug\net8.0\Ejercicio 3.dll
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 3\Ejercicio 3\bin\Debug\net8.0\Ejercicio 3.pdb
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.AssemblyInfoInputs.cache
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.AssemblyInfo.cs
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.csproj.CoreCompileInputs.cache
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.dll
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0\refint\Ejercicio 3.dll
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.pdb
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.genruntimeconfig.cache
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0\ref\Ejercicio 3.dll
+D:\Desktop\Studying\5to semestre\1 - Scripting\GitHub\000509358-Scripting\Ejercicio 3 - sln\Ejercicio 3\bin\Debug\net8.0\Ejercicio 3.exe
+D:\Desktop\Studying\5to semestre\1 - Scripting\GitHub\000509358-Scripting\Ejercicio 3 - sln\Ejercicio 3\bin\Debug\net8.0\Ejercicio 3.deps.json
+D:\Desktop\Studying\5to semestre\1 - Scripting\GitHub\000509358-Scripting\Ejercicio 3 - sln\Ejercicio 3\bin\Debug\net8.0\Ejercicio 3.runtimeconfig.json
+D:\Desktop\Studying\5to semestre\1 - Scripting\GitHub\000509358-Scripting\Ejercicio 3 - sln\Ejercicio 3\bin\Debug\net8.0\Ejercicio 3.dll
+D:\Desktop\Studying\5to semestre\1 - Scripting\GitHub\000509358-Scripting\Ejercicio 3 - sln\Ejercicio 3\bin\Debug\net8.0\Ejercicio 3.pdb
+D:\Desktop\Studying\5to semestre\1 - Scripting\GitHub\000509358-Scripting\Ejercicio 3 - sln\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Studying\5to semestre\1 - Scripting\GitHub\000509358-Scripting\Ejercicio 3 - sln\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.AssemblyInfoInputs.cache
+D:\Desktop\Studying\5to semestre\1 - Scripting\GitHub\000509358-Scripting\Ejercicio 3 - sln\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.AssemblyInfo.cs
+D:\Desktop\Studying\5to semestre\1 - Scripting\GitHub\000509358-Scripting\Ejercicio 3 - sln\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.csproj.CoreCompileInputs.cache
+D:\Desktop\Studying\5to semestre\1 - Scripting\GitHub\000509358-Scripting\Ejercicio 3 - sln\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.sourcelink.json
+D:\Desktop\Studying\5to semestre\1 - Scripting\GitHub\000509358-Scripting\Ejercicio 3 - sln\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.dll
+D:\Desktop\Studying\5to semestre\1 - Scripting\GitHub\000509358-Scripting\Ejercicio 3 - sln\Ejercicio 3\obj\Debug\net8.0\refint\Ejercicio 3.dll
+D:\Desktop\Studying\5to semestre\1 - Scripting\GitHub\000509358-Scripting\Ejercicio 3 - sln\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.pdb
+D:\Desktop\Studying\5to semestre\1 - Scripting\GitHub\000509358-Scripting\Ejercicio 3 - sln\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.genruntimeconfig.cache
+D:\Desktop\Studying\5to semestre\1 - Scripting\GitHub\000509358-Scripting\Ejercicio 3 - sln\Ejercicio 3\obj\Debug\net8.0\ref\Ejercicio 3.dll

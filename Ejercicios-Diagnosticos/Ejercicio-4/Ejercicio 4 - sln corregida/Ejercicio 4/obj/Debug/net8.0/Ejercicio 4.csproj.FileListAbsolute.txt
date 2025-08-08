@@ -1,0 +1,29 @@
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 4\Ejercicio 4\bin\Debug\net8.0\Ejercicio 4.exe
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 4\Ejercicio 4\bin\Debug\net8.0\Ejercicio 4.deps.json
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 4\Ejercicio 4\bin\Debug\net8.0\Ejercicio 4.runtimeconfig.json
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 4\Ejercicio 4\bin\Debug\net8.0\Ejercicio 4.dll
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 4\Ejercicio 4\bin\Debug\net8.0\Ejercicio 4.pdb
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 4\Ejercicio 4\obj\Debug\net8.0\Ejercicio 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 4\Ejercicio 4\obj\Debug\net8.0\Ejercicio 4.AssemblyInfoInputs.cache
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 4\Ejercicio 4\obj\Debug\net8.0\Ejercicio 4.AssemblyInfo.cs
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 4\Ejercicio 4\obj\Debug\net8.0\Ejercicio 4.csproj.CoreCompileInputs.cache
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 4\Ejercicio 4\obj\Debug\net8.0\Ejercicio 4.dll
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 4\Ejercicio 4\obj\Debug\net8.0\refint\Ejercicio 4.dll
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 4\Ejercicio 4\obj\Debug\net8.0\Ejercicio 4.pdb
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 4\Ejercicio 4\obj\Debug\net8.0\Ejercicio 4.genruntimeconfig.cache
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 4\Ejercicio 4\obj\Debug\net8.0\ref\Ejercicio 4.dll
+D:\Desktop\Studying\5to semestre\1 - Scripting\GitHub\000509358-Scripting\Ejercicio 4 - sln corregida\Ejercicio 4\bin\Debug\net8.0\Ejercicio 4.exe
+D:\Desktop\Studying\5to semestre\1 - Scripting\GitHub\000509358-Scripting\Ejercicio 4 - sln corregida\Ejercicio 4\bin\Debug\net8.0\Ejercicio 4.deps.json
+D:\Desktop\Studying\5to semestre\1 - Scripting\GitHub\000509358-Scripting\Ejercicio 4 - sln corregida\Ejercicio 4\bin\Debug\net8.0\Ejercicio 4.runtimeconfig.json
+D:\Desktop\Studying\5to semestre\1 - Scripting\GitHub\000509358-Scripting\Ejercicio 4 - sln corregida\Ejercicio 4\bin\Debug\net8.0\Ejercicio 4.dll
+D:\Desktop\Studying\5to semestre\1 - Scripting\GitHub\000509358-Scripting\Ejercicio 4 - sln corregida\Ejercicio 4\bin\Debug\net8.0\Ejercicio 4.pdb
+D:\Desktop\Studying\5to semestre\1 - Scripting\GitHub\000509358-Scripting\Ejercicio 4 - sln corregida\Ejercicio 4\obj\Debug\net8.0\Ejercicio 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Studying\5to semestre\1 - Scripting\GitHub\000509358-Scripting\Ejercicio 4 - sln corregida\Ejercicio 4\obj\Debug\net8.0\Ejercicio 4.AssemblyInfoInputs.cache
+D:\Desktop\Studying\5to semestre\1 - Scripting\GitHub\000509358-Scripting\Ejercicio 4 - sln corregida\Ejercicio 4\obj\Debug\net8.0\Ejercicio 4.AssemblyInfo.cs
+D:\Desktop\Studying\5to semestre\1 - Scripting\GitHub\000509358-Scripting\Ejercicio 4 - sln corregida\Ejercicio 4\obj\Debug\net8.0\Ejercicio 4.csproj.CoreCompileInputs.cache
+D:\Desktop\Studying\5to semestre\1 - Scripting\GitHub\000509358-Scripting\Ejercicio 4 - sln corregida\Ejercicio 4\obj\Debug\net8.0\Ejercicio 4.sourcelink.json
+D:\Desktop\Studying\5to semestre\1 - Scripting\GitHub\000509358-Scripting\Ejercicio 4 - sln corregida\Ejercicio 4\obj\Debug\net8.0\Ejercicio 4.dll
+D:\Desktop\Studying\5to semestre\1 - Scripting\GitHub\000509358-Scripting\Ejercicio 4 - sln corregida\Ejercicio 4\obj\Debug\net8.0\refint\Ejercicio 4.dll
+D:\Desktop\Studying\5to semestre\1 - Scripting\GitHub\000509358-Scripting\Ejercicio 4 - sln corregida\Ejercicio 4\obj\Debug\net8.0\Ejercicio 4.pdb
+D:\Desktop\Studying\5to semestre\1 - Scripting\GitHub\000509358-Scripting\Ejercicio 4 - sln corregida\Ejercicio 4\obj\Debug\net8.0\Ejercicio 4.genruntimeconfig.cache
+D:\Desktop\Studying\5to semestre\1 - Scripting\GitHub\000509358-Scripting\Ejercicio 4 - sln corregida\Ejercicio 4\obj\Debug\net8.0\ref\Ejercicio 4.dll

@@ -1,0 +1,14 @@
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 2\Ejercicio 2\bin\Debug\net8.0\Ejercicio 2.exe
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 2\Ejercicio 2\bin\Debug\net8.0\Ejercicio 2.deps.json
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 2\Ejercicio 2\bin\Debug\net8.0\Ejercicio 2.runtimeconfig.json
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 2\Ejercicio 2\bin\Debug\net8.0\Ejercicio 2.dll
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 2\Ejercicio 2\bin\Debug\net8.0\Ejercicio 2.pdb
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 2\Ejercicio 2\obj\Debug\net8.0\Ejercicio 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 2\Ejercicio 2\obj\Debug\net8.0\Ejercicio 2.AssemblyInfoInputs.cache
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 2\Ejercicio 2\obj\Debug\net8.0\Ejercicio 2.AssemblyInfo.cs
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 2\Ejercicio 2\obj\Debug\net8.0\Ejercicio 2.csproj.CoreCompileInputs.cache
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 2\Ejercicio 2\obj\Debug\net8.0\Ejercicio 2.dll
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 2\Ejercicio 2\obj\Debug\net8.0\refint\Ejercicio 2.dll
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 2\Ejercicio 2\obj\Debug\net8.0\Ejercicio 2.pdb
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 2\Ejercicio 2\obj\Debug\net8.0\Ejercicio 2.genruntimeconfig.cache
+D:\Desktop\Studying\5to semestre\1 - Scripting\Ejercicio Diagnostico\Ejercicio 2\Ejercicio 2\obj\Debug\net8.0\ref\Ejercicio 2.dll

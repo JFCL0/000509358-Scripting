@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\Studying\\5to semestre\\1 - Scripting\\GitHub\\000509358-Scripting\\Ejercicios-Diagnosticos\\Ejercicio-2\\Ejercicio 2 - sln corregida\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3FE09C-68A0-4B85-A2E6-4CB496AE96D2}|Ejercicio 2\\Ejercicio 2.csproj|d:\\desktop\\studying\\5to semestre\\1 - scripting\\github\\000509358-scripting\\ejercicios-diagnosticos\\ejercicio-2\\ejercicio 2 - sln corregida\\ejercicio 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3FE09C-68A0-4B85-A2E6-4CB496AE96D2}|Ejercicio 2\\Ejercicio 2.csproj|solutionrelative:ejercicio 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\Studying\\5to semestre\\1 - Scripting\\GitHub\\000509358-Scripting\\Ejercicios-Diagnosticos\\Ejercicio-2\\Ejercicio 2 - sln corregida\\Ejercicio 2\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio 2\\Program.cs",
+              "ToolTip": "D:\\Desktop\\Studying\\5to semestre\\1 - Scripting\\GitHub\\000509358-Scripting\\Ejercicios-Diagnosticos\\Ejercicio-2\\Ejercicio 2 - sln corregida\\Ejercicio 2\\Program.cs",
+              "RelativeToolTip": "Ejercicio 2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T03:36:48.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -39,5 +39,6 @@ Participantes:
 - Juan Nicolas Correa
 - Juan Sebastian Lopez
 
-[Diagrama UML]()
-[Carpeta proyecto]()
+[Diagrama UML](https://github.com/JFCL0/000509358-Scripting/blob/main/Taller%20POO/Diagrama%20UML.jpg)  
+[Carpeta proyecto](https://github.com/JFCL0/000509358-Scripting/tree/main/Taller%20POO/Carpeta%20proyecto)  
+[Comprimido proyecto](https://github.com/JFCL0/000509358-Scripting/blob/main/Taller%20POO/Proyecto%20comprimido.rar)

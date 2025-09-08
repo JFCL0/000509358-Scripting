@@ -29,3 +29,15 @@
   [Ejercicio original](https://github.com/JFCL0/000509358-Scripting/blob/main/Ejercicios-Diagnosticos/Ejercicio-4/Ejercicio4_Original.cs)  
   [Ejercicio corregido](https://github.com/JFCL0/000509358-Scripting/tree/main/Ejercicios-Diagnosticos/Ejercicio-4/Ejercicio%204%20-%20sln%20corregida)  
   [Notas Aclaratorias](https://github.com/JFCL0/000509358-Scripting/blob/main/Ejercicios-Diagnosticos/Ejercicio-4/Notas_Aclaratorias_4.md)  
+
+## Taller POO
+
+Este taller fue desarrollado con el fin de ejecutarse utilizando visual studio.
+
+Participantes:
+
+- Juan Nicolas Correa
+- Juan Sebastian Lopez
+
+[Diagrama UML]()
+[Carpeta proyecto]()

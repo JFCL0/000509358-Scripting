@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Downloads\\SCRIPTING IDED TRABAJO DE RAIZ Y NODOS\\SCRIPTING IDED TRABAJO DE RAIZ Y NODOS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{236289A8-7D0F-4DB1-8149-9751FDD2878D}|SCRIPTING IDED TRABAJO DE RAIZ Y NODOS.csproj|d:\\downloads\\scripting ided trabajo de raiz y nodos\\scripting ided trabajo de raiz y nodos\\clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236289A8-7D0F-4DB1-8149-9751FDD2878D}|SCRIPTING IDED TRABAJO DE RAIZ Y NODOS.csproj|solutionrelative:clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Downloads\\SCRIPTING IDED TRABAJO DE RAIZ Y NODOS\\SCRIPTING IDED TRABAJO DE RAIZ Y NODOS\\Clases\\Program.cs",
+              "RelativeDocumentMoniker": "Clases\\Program.cs",
+              "ToolTip": "D:\\Downloads\\SCRIPTING IDED TRABAJO DE RAIZ Y NODOS\\SCRIPTING IDED TRABAJO DE RAIZ Y NODOS\\Clases\\Program.cs",
+              "RelativeToolTip": "Clases\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T22:00:41.106Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

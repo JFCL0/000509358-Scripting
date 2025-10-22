@@ -46,3 +46,4 @@ Participantes:
 ## Reposicion de parcial Pokemons
 
 [Carpeta proyecto](https://github.com/JFCL0/000509358-Scripting/tree/main/Parcial%20Pokemons)
+

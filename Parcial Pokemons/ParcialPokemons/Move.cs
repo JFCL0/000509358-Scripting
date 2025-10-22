@@ -17,8 +17,8 @@ namespace Parcial_pokemons
     {
         private string name {  get; set; }
         public int BasePower { get; set; }
-        private Types type { get; set; }
-        private MoveType moveType { get; set; }
+        public Types type { get; set; }
+        public MoveType moveType { get; set; }
 
 
         public Move(string name, Types Type, MoveType moveType, int basePower = 100)

@@ -29,8 +29,8 @@ namespace Parcial_pokemons
         public int Defense { get; set; }
         public int SpecialAttack { get; set; }
         public int SpecialDefense { get; set; }
-        private List<Types> Types { get; set; } = new List<Types>();
-        private Move[] Moves { get; set; }
+        public List<Types> Types { get; set; } = new List<Types>();
+        public Move[] Moves { get; set; }
 
 
         public Pokemon(string name, Types types, int level = 1, int ATK = 10, int DEF = 10, int SpATK = 10, int SpDEF = 10)
